@@ -1,0 +1,43 @@
+body { color: #ababab;
+    font-family: Roboto,Arial,sans-serif;
+margin-left: 120px;
+margin-right: 120px;
+
+}
+
+
+
+
+.header1 img{width: 150px;
+    border-radius: 50%;}
+
+.header1 {display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top:0px;
+    background-color: rgb(203, 241, 248);}
+
+
+
+
+    .header1 ul{display: flex;
+        list-style: none;
+        padding: 43px;
+
+        }
+
+
+        .navbar a {text-decoration:none ;
+            color:#300df5;
+        margin: 10px;}
+
+
+/* partie header terminé  */
+/* partie presentation  */
+.pre h1{text-align: center;
+color: red;
+font-size: 46px;}
+.pre img{width: 1092px;}
+.pre p{font-size: 23px;}
+    
+/* partie presnetation terminé  */
